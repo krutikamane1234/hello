@@ -1,4 +1,2 @@
-
-
-krutika mane
-gauri dabholkar
+blog hello
+good vibes
